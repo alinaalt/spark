@@ -1,3 +1,3 @@
 # spark
 
-A dockerfile for an image with spark 1.6.1 and scala 2.11.6
+A dockerfile for an image of spark 1.6.1 built on scala 2.11.6
